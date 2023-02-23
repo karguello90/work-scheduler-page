@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family:'Courier New', Courier, monospace
   font-size: 16px;
 }
 
@@ -31,25 +31,25 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #8f8f8f;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #4444d3;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #2ba1a1;
   color: white;
 }
 
 .saveBtn {
-  border-left: 1px solid black;
+  border-left: 1px solid rgb(138, 138, 138);
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: #8d0f0f;
   color: white;
 }
 
