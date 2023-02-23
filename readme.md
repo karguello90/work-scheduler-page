@@ -21,7 +21,7 @@ HTML divs have been created to act as selectors for each hour in the day as well
 ## Installation:
 To install, the user will need to clone the GitHub repo to their local storage and launch the index.html file to their local web browser or simply visit the deployed page here: 
 
-
+https://karguello90.github.io/work-scheduler-page/
 
 ## Usage:
 To use the site, the user will simply type a memo or to-do task on a selected hour block. The text will be stored for later viewing through local storage and this can be seen via the web browser's inspect tab and then selecting the application tab.
